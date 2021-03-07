@@ -3,7 +3,7 @@ A data driven approach to predict whether customer will subscribe for deposits o
 First of all I would like to thanks UCI Machine Learning Repository for providing dataset publically. Link of the dataset https://archive.ics.uci.edu/ml/datasets/Bank+Marketing <br>
 Relevant Paper for this problem statement: https://core.ac.uk/download/pdf/55631291.pdf <br>
 Programming Language used- Python<br> ![image](https://user-images.githubusercontent.com/40769717/110240060-1e848c80-7f70-11eb-90d7-f246219464df.png)<br>
-All the codes are written in Jupyten Notebook of Google Colab<br> ![image](https://user-images.githubusercontent.com/40769717/110240100-4378ff80-7f70-11eb-877d-64003623fec7.png)<br>
+All the codes are written in Jupyter Notebook of Google Colab<br> ![image](https://user-images.githubusercontent.com/40769717/110240100-4378ff80-7f70-11eb-877d-64003623fec7.png)<br>
  
 Libraries used in this problem statement<br>
 ![image](https://user-images.githubusercontent.com/40769717/110240191-aff3fe80-7f70-11eb-9ebd-cdb4336a97e8.png)
